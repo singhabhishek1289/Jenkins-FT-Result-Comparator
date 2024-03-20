@@ -1,1 +1,1 @@
-# JenkinsFTComparator
+# Jenkins FT Result Comparator
